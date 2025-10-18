@@ -1,0 +1,51 @@
+Crop,SoilType,Season,MinRain,MaxRain,MinTemp,MaxTemp,Yield,Variety,Fertilizer,MarketPrice
+Rice,Clay,Kharif,1000,2500,20,35,4.5,Basmati,NPK 120:60:40,40
+Wheat,Loam,Rabi,450,650,10,25,3.8,HD-2967,Urea 120kg/ha,25
+Maize,Sandy-Loam,Kharif,600,1200,18,30,5.2,Pioneer,DAP 100kg/ha,20
+Cotton,Black-Soil,Kharif,600,1000,21,32,2.8,Bt-Cotton,NPK 80:40:40,60
+Sugarcane,Loam,Year-round,1500,2500,20,35,70,Co-86032,Urea 150kg/ha,3
+Soybean,Loam,Kharif,750,1200,20,32,2.5,JS-335,DAP 80kg/ha,45
+Groundnut,Sandy,Kharif,500,1000,20,30,2.2,TMV-2,Gypsum 400kg/ha,55
+Potato,Sandy-Loam,Rabi,500,700,15,25,25,Kufri-Jyoti,NPK 120:80:100,15
+Tomato,Loam,Year-round,600,1000,18,30,40,Pusa-Ruby,NPK 100:50:50,30
+Onion,Loam,Rabi,350,550,15,25,20,Nasik-Red,NPK 100:50:50,25
+Cabbage,Clay-Loam,Rabi,400,600,15,20,35,Golden-Acre,Urea 100kg/ha,18
+Cauliflower,Loam,Rabi,400,600,15,22,25,Pusa-Snowball,NPK 120:60:60,22
+Peas,Loam,Rabi,300,500,10,20,3,Arkel,DAP 60kg/ha,40
+Chickpea,Loam,Rabi,600,900,10,25,2,Pusa-256,DAP 50kg/ha,60
+Lentil,Loam,Rabi,400,600,15,25,1.5,Pusa-4076,DAP 40kg/ha,75
+Mustard,Loam,Rabi,400,600,10,25,1.8,Pusa-Bold,Urea 80kg/ha,65
+Sunflower,Sandy-Loam,Rabi,500,800,20,28,2,KBSH-44,NPK 60:40:40,50
+Turmeric,Clay-Loam,Year-round,1500,2250,20,35,6,Lakadong,Organic-Compost,120
+Ginger,Loam,Year-round,1500,3000,18,30,15,Rio-de-Janeiro,NPK 75:50:50,100
+Chili,Sandy-Loam,Kharif,650,1200,20,35,3,G4,NPK 100:50:50,80
+Banana,Loam,Year-round,1200,2700,15,35,40,Grand-Naine,NPK 200:100:200,35
+Mango,Loam,Summer,500,1500,24,35,8,Alphonso,NPK 100:50:100,120
+Papaya,Sandy-Loam,Year-round,1000,2000,20,35,50,Red-Lady,NPK 200:200:400,40
+Grapes,Sandy-Loam,Year-round,600,900,15,35,20,Thompson,NPK 80:40:40,70
+Pomegranate,Sandy-Loam,Year-round,500,800,15,38,12,Bhagwa,NPK 100:50:50,90
+Orange,Loam,Year-round,1000,1500,13,37,15,Nagpur,NPK 500:250:500,50
+Guava,Sandy-Loam,Year-round,1000,2000,15,35,25,Allahabad,NPK 400:200:400,45
+Coconut,Sandy-Loam,Year-round,1500,2500,20,32,80,Tall-Variety,Organic-Manure,25
+Areca-Nut,Loam,Year-round,2500,4500,14,36,2,Mangala,NPK 100:40:140,400
+Tea,Clay-Loam,Year-round,1500,3000,10,30,2.5,Assam,NPK 150:60:60,250
+Coffee,Loam,Year-round,1500,2500,15,28,1.2,Arabica,NPK 100:100:100,350
+Rubber,Laterite,Year-round,2000,4500,24,34,1.8,RRII-105,NPK 100:40:40,180
+Cashew,Laterite,Year-round,500,2000,20,35,1,Vengurla,Organic-Compost,500
+Black-Pepper,Loam,Year-round,2000,3000,10,40,0.5,Panniyur-1,NPK 50:50:50,600
+Cardamom,Loam,Year-round,1500,4000,10,35,0.25,Malabar,Organic-Manure,1500
+Coriander,Loam,Rabi,400,600,15,25,1.5,Pusa-Coriander,DAP 50kg/ha,120
+Cumin,Sandy-Loam,Rabi,300,500,10,25,0.8,GC-4,DAP 40kg/ha,400
+Fenugreek,Loam,Rabi,400,600,10,25,2,Rajendra-Methi,Urea 50kg/ha,100
+Barley,Loam,Rabi,450,650,12,25,3,RD-2552,Urea 100kg/ha,30
+Millets,Sandy-Loam,Kharif,400,600,25,35,2,DHM-117,Organic-Manure,35
+Jowar,Loam,Kharif,450,900,26,33,3.5,CSH-16,DAP 75kg/ha,28
+Bajra,Sandy,Kharif,400,600,25,35,2,HHB-67,Urea 60kg/ha,25
+Sesame,Loam,Kharif,500,750,25,35,0.7,RT-346,NPK 40:20:20,110
+Niger,Loam,Kharif,1000,1500,20,30,0.6,IGP-76,DAP 30kg/ha,95
+Safflower,Loam,Rabi,350,600,10,25,1.2,PBNS-12,DAP 50kg/ha,85
+Castor,Sandy-Loam,Kharif,500,750,20,35,1.5,GCH-7,Urea 60kg/ha,55
+Jute,Clay-Loam,Kharif,1500,2500,24,37,2.8,JRO-524,Urea 80kg/ha,40
+Tobacco,Sandy-Loam,Rabi,600,1000,20,30,2,Kanchan,NPK 60:30:30,200
+Isabgol,Sandy-Loam,Rabi,300,500,10,25,0.8,HI-5,DAP 40kg/ha,450
+Brinjal,Loam,Year-round,600,1000,18,35,30,Pusa-Purple,NPK 150:75:75,25
