@@ -31,7 +31,7 @@ const Welcome = () => {
           </div>
 
           <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-            🌾 Welcome to GS Crop Advisory System
+            🌾GS Crop Advisory System
           </h1>
 
           <p className="text-lg text-black mb-8 max-w-2xl mx-auto">
