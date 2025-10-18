@@ -4,23 +4,23 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
+  plugins: [react(), componentTagger()],
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
     },
   },
   server: {
-    host: "0.0.0.0", // ✅ Use IPv4 to avoid "::" issues
+    host: "0.0.0.0",
     port: 8080,
     allowedHosts: [
-      "cropadvisory-drbn.onrender.com", // ✅ Your Render domain
-      ".onrender.com", // ✅ Allow all subdomains of Render (backup)
-      "localhost", // ✅ Allow local development
+      "cropadvisory-drbn.onrender.com",
+      ".onrender.com",
+      "localhost",
     ],
   },
   preview: {
-    host: "0.0.0.0", // ✅ Important for production preview
+    host: "0.0.0.0",
     port: 8080,
     allowedHosts: [
       "cropadvisory-drbn.onrender.com",
